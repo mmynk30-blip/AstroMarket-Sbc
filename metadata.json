@@ -1,0 +1,6 @@
+{
+  "name": "AstroMarket",
+  "description": "Stock market prediction, Sarvatobhadra Chakra intensity shift notifications, Hora, and Panchang market timing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
